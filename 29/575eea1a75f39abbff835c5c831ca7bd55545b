@@ -1,0 +1,19 @@
+README.md
+  s_b42323b16b5794::t_0f2d4a55137fd0 7,14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "29575eea1a75f39abbff835c5c831ca7bd55545b",
+  "prompts": {},
+  "sessions": {
+    "s_b42323b16b5794": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_b42323b16b5794",
+        "model": "unknown"
+      },
+      "human_author": "Darth-koder007 <vj2010sn@gmail.com>"
+    }
+  }
+}
